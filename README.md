@@ -6,7 +6,7 @@ SAP, Red Hat OpenJDK, Adoptium, Amazon Corretto, Alibaba, Azul Systems, Eclipse,
 
 ## What are the most important IDEs for java development?
 
-IntelliJ, Eclipse, NetBeans, BlueJ, DrJava, JCreator, Visual Studio Code, Android Studio, Debugger, 
+Eclipse, NetBeans, BlueJ, IntelliJ, DrJava, JCreator, MyEclipse, jGRASP, Greenfoot 
 
 ## Which datatype is better for money?
 
