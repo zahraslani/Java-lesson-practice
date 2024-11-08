@@ -1,1 +1,13 @@
-"# Java-lesson-practice" 
+# Java-lesson-practice 
+
+## From which sites can JDK be downloaded?
+
+SAP, Red Hat OpenJDK, Adoptium, Amazon Corretto, Alibaba, Azul Systems, Eclipse, Oracle, Amazon Hub Counter, BellSoft Liberica JDK, GraalVM, IBM, Microsoft, Red Hat Software, Apple, BellSoft, Azul Zulu, Azul Zing
+
+## What are the most important IDEs for java development?
+
+Eclipse, NetBeans, BlueJ, IntelliJ, DrJava, JCreator, MyEclipse, jGRASP, Greenfoot 
+
+## Which datatype is better for money?
+
+int
